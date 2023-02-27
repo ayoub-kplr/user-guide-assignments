@@ -39,15 +39,15 @@ Vous cliquez sur le lien
 
 Vous accedez au jour du notebook, puis vous cliquez 
 
-![Screenshot](images/7.png "S1")
+![Screenshot](images/8.png "S1")
 
 Vous cliquez sur "Add file", puis Upload files.
 Et vous uploadez les notebook.
 
-![Screenshot](images/8.png "S1")
+![Screenshot](images/9.png "S1")
 
 Vous cliquez sur "Choose your files", et vous selectionnez les notebooks à uploader.
 
-![Screenshot](images/9.png "S1")
+![Screenshot](images/10.png "S1")
 
 Et finalement, vous cliquez sur "Commit changes"
