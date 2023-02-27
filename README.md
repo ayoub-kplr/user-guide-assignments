@@ -16,22 +16,22 @@ APres avoir telecharger les Markdowns,
 
 Acceder au lien https://classroom.github.com/a/gej_rcJx
 
-![[Pasted image 20230227123552.png]]
+![Screenshot](images/3.png "S1")
 
 Et choisissez vos nom.
 
 Il faut accepter le devoir
 
-![[Pasted image 20230227123643.png]]
+![Screenshot](images/4.png "S1")
 
 
 Vous allez avoir cette page
-![[Pasted image 20230227123806.png]]
+![Screenshot](images/5.png "S1")
 Il faut passionter quelque minutes, le temp que vos compte soit créer.
 
 Apres queleque instants, actualiser la page
 
-![[Pasted image 20230227123933.png]]
+![Screenshot](images/6.png "S1")
 
 Vous allez voir un lien de devoir github
 
@@ -39,15 +39,15 @@ Vous cliquez sur le lien
 
 Vous accedez au jour du notebook, puis vous cliquez 
 
-![[Pasted image 20230227124236.png]]
+![Screenshot](images/7.png "S1")
 
 Vous cliquez sur "Add file", puis Upload files.
 Et vous uploadez les notebook.
 
-![[Pasted image 20230227124251.png]]
+![Screenshot](images/8.png "S1")
 
 Vous cliquez sur "Choose your files", et vous selectionnez les notebooks à uploader.
 
-![[Pasted image 20230227124532.png]]
+![Screenshot](images/9.png "S1")
 
 Et finalement, vous cliquez sur "Commit changes"
