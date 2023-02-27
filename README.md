@@ -10,9 +10,8 @@
 ![Screenshot](images/2.png "S2")
 
 
-https://classroom.github.com/a/gej_rcJx
 
-APres avoir telecharger les Markdowns, 
+Apres avoir telecharger les Markdowns, 
 
 Acceder au lien https://classroom.github.com/a/gej_rcJx
 
